@@ -22,6 +22,7 @@ Dans cette vidéo, nous couvrirons les sujets suivants :
 4. **Exemple pratique :** Nous réaliserons un exemple pratique en direct pour que vous puissiez voir comment tout cela fonctionne en action.
 
 5. **BONUS :** Une app Time Up Flag pour apprendre et découvrir les drapeaux du monde issue de données extraites de Wikipédia
+   ![App time up flag](https://i.ibb.co/1RHwKVt/Capture-d-cran-2023-09-01-02-33-44.png)
 
 ## Prérequis
 
